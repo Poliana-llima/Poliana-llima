@@ -1,7 +1,7 @@
 ## Oie sou Poliana Lima, tudo bem?
 
 - 🖥️ Hoje trabalho como progrmadora da Web, back-end
-- 📚 Estudo Redes de computadores
+- 📚 Estudo Analise e  Desenvolvimento de Sistemas
 - ✉️ Contate-me no e-mail: poliana.rafaela.ll@hotmail.com
 
 ##
