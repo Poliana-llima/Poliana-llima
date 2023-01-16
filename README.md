@@ -1,4 +1,4 @@
-## Oie sou Poliana Lima, tudo bem?
+## Olá sou Poliana Lima, tudo bem?
 
 - 🖥️ Hoje trabalho como progrmadora da Web, front.
 - 📚 Estudo Analise e  Desenvolvimento de Sistemas
