@@ -2,7 +2,7 @@
 
 - 🖥️ Realizando transição de carreira.
 - 🧠 Meu eu no mundo Dev.
-- 📚 Estudo Analise e  Desenvolvimento de Sistemas.
+- 📚 Analise e  Desenvolvimento de Sistemas.
 - 💻 Adorando a Jornada, mas o objetivo principal é ser fullstack.
 - ✉️ Contate-me no e-mail: poliana.rafaela.ll@hotmail.com
 
